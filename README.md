@@ -13,10 +13,10 @@ Company Project for monitoring API status notification thru email
 ## Sample Emails
   -  Daily Status Report
 
-     ![daily_status_1](images/daily_status_1.PNG)
+     ![daily_status_1](images/conse_errors_1.png)
 
   -  Consecutive Error List
 
-      ![conse_errors_1](images/conse_errors_1.PNG)
+      ![conse_errors_1](images/conse_errors_1.png)
       ![conse_errors_2](images/conse_errors_2.PNG)
       ![conse_errors_3](images/conse_errors_3.PNG)
